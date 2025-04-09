@@ -1,0 +1,10 @@
+Hi testing purpose
+Hi testing simple changes
+
+
+Rebase simple example from master.
+<<<<<<< HEAD
+master1
+=======
+master change1
+>>>>>>> master commit 1
